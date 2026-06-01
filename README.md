@@ -93,8 +93,7 @@ Cloud Computing
 ## 📫 Contact
 
 * 📧 Email: [cuong040205a7@gmail.com](mailto:cuong040205a7@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/your-linkedin
-* 🌐 GitHub: github.com/your-username
+* 🌐 GitHub: github.com/cuong4205
 
 ---
 
